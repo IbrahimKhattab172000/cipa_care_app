@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "953855292044",
+    "project_id": "cipa-care-app",
+    "storage_bucket": "cipa-care-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953855292044:android:d7ee5c055a9bf936fb81a9",
+        "android_client_info": {
+          "package_name": "com.example.cipa_care_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHIb2-E7IBODCm-AVSBt9DAX2Nv8ifxFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
